@@ -16,6 +16,7 @@
 3. Recipe App
 
 -   Design: https://uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615
+-   recipes : https://www.themealdb.com
 -   recipe info on click
 -   fav recipe (w/ localStorage)
 
