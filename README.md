@@ -36,6 +36,7 @@
 6. Movie App
 
 -   Design: https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
+-   API : https://www.themoviedb.org/documentation/api
 -   list of movies
 -   movie info
 -   fav movie
