@@ -65,6 +65,7 @@
 10. Weather App
 
 -   Design: https://uidesigndaily.com/posts/photoshop-weather-prognosis-day-156
+-   API : https://openweathermap.org/api
 -   enter location
 -   get weather
 -   have some icons?
